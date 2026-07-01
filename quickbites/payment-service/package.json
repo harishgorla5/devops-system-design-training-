@@ -1,0 +1,9 @@
+{
+  "name": "payment-service",
+  "version": "1.0.0",
+  "description": "QuickBite payment-service",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
+
